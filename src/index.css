@@ -1,0 +1,11 @@
+@import 'npm:normalize.css';
+
+html {
+  color-scheme: dark;
+  background: hsl(288deg 90% 1%);
+  color: hsl(72deg 50% 99%);
+
+  font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color;
+  line-height: 1.5
+}
+
